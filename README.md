@@ -1,0 +1,3 @@
+- This is a basic program that uses request library to download youtube videos as mp3 files.
+- Api used for searching video's id : https://rapidapi.com/mirzahadjaevaguzal/api/youtube-music-downloader-mp3
+- Api used for downloading video : https://rapidapi.com/ytjar/api/youtube-mp36/
